@@ -1,0 +1,12 @@
+.env
+
+backend/target/
+backend.zip
+
+frontend/build/
+frontend/.dart_tool/
+
+.vscode/
+.idea/
+
+*.log
