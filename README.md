@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Hero Banner](https://via.placeholder.com/1200x300/1e1e2e/00d2ff?text=NL2SQL:+Talk+to+your+Database+in+Plain+English)
+;; ![Hero Banner](https://via.placeholder.com/1200x300/1e1e2e/00d2ff?text=NL2SQL:+Talk+to+your+Database+in+Plain+English)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&logo=github)](#)
 [![Star on GitHub](https://img.shields.io/badge/Star_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
@@ -146,7 +146,7 @@ If you're unsure where to start, check the **Issues** tab!
 
 ## 💬 Let's Connect
 Got thoughts? Want to vent about how hard SQL can be? Drop a comment in the **Discussions** tab or open an **Issue**. We engage with absolutely everyone. 
-- **Developer:** [@bhagyaprasad92](https://github.com/Bhagyaprasad92) *(Update with your actual link!)*
+- **Developer:** [@bhagyaprasad92](https://github.com/Bhagyaprasad92) 
 - **Report Bugs:** [Issue Tracker](https://github.com/Bhagyaprasad92/NLtoSQL_System/issues)
 
 ---
