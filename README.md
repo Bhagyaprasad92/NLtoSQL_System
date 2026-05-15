@@ -78,7 +78,7 @@ graph TD;
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/NLtoSQL_System.git
+git clone https://github.com/Bhagyaprasad92/NLtoSQL_System.git
 cd NLtoSQL_System
 ```
 
