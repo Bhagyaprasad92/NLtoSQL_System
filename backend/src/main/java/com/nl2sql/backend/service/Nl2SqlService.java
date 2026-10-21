@@ -18,10 +18,10 @@ public class Nl2SqlService {
 
     private final JdbcTemplate jdbcTemplate;
     private final ObjectMapper objectMapper = new ObjectMapper();
-    @Value("${GEMINI_API_KEY}")
+    @Value("${GEMINI_API_KEY:}")
     private String geminiApiKey;
 
-    @Value("${GEMINI_API_URL}")
+    @Value("${GEMINI_API_URL:https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent}")
     private String geminiApiUrl;
     public Nl2SqlService(JdbcTemplate jdbcTemplate) {
         this.jdbcTemplate = jdbcTemplate;
